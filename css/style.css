@@ -23,7 +23,10 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f4f4f', endColorstr='#131313',GradientType=0 ); /* IE6-8 */
   font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
   font-size: 100%;
+  
 }
+
+
 
 h1 {
   font-size: 12.25em;
@@ -104,9 +107,11 @@ img {
 }
 
 #title-box {
+  
   width: 252px;
   height: 165px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+  content: normal;
 }
